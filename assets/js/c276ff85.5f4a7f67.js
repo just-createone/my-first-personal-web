@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_first_personal_web=self.webpackChunkmy_first_personal_web||[]).push([[558],{9995:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/my-first-personal-web/blog/tags/facebook","allTagsPath":"/my-first-personal-web/blog/tags","count":1}')}}]);
